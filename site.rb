@@ -11,3 +11,7 @@ end
 get '/chinese' do
   "Ni Hao"
 end
+get '/tonyfang' do
+  <h1> Welcome to my page </h1>
+    <h2> My name is Tony Fang </h2>
+     <p> I am 27, born and raised in Utah. </p>
