@@ -8,3 +8,6 @@ end
 get '/italian' do
   "Ciao!"
 end
+get '/chinese' do
+  "Ni Hao"
+end
