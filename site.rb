@@ -12,6 +12,8 @@ get '/chinese' do
   "Ni Hao"
 end
 get '/tonyfang' do
-  "<h1>Welcome to my page</h1>"
+  "<h1><c>Welcome to my page</c></h1>"
+  "<h2><c>My name is Tony Fang</c></h1>"
+  "<p>I am 27, born and raised in Utah. I love traveling and sight seeing</>"
 end
 
