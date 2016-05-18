@@ -12,6 +12,6 @@ get '/chinese' do
   "Ni Hao"
 end
 get '/tonyfang' do
-  "Welcome to my page"
+  "<h1>Welcome to my page</h1>"
 end
 
