@@ -17,4 +17,7 @@ get '/tonyfang' do
   <h2><c>My name is Tony Fang</c></h1><br>
   <p>I am 27, born and raised in Utah. I love traveling and sight seeing</>"
 end
+ get '/read_more' do
+   erb :read_more
+ end
 
