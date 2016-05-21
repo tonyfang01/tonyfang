@@ -4,3 +4,16 @@
    marging: 10px;
    text-align: center;
  }
+
+ .profile h1 {
+   text-align: center;
+   text-transform: uppercase;
+ }
+
+ html {
+  background: url('http://bit.ly/1VekdA1') no-repeat center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+ }
